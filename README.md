@@ -10,6 +10,6 @@
 
 ## Publicado em
 
-AWS Amplify: https://main.d1vf1gfaf6i04m.amplifyapp.com/
+* [AWS Amplify](https://aws.amazon.com/pt/amplify/) => https://main.d1vf1gfaf6i04m.amplifyapp.com/
 
-Vercel: https://numero-secreto-eosin-two.vercel.app/
+* [Vercel](https://vercel.com/) => https://numero-secreto-eosin-two.vercel.app/
